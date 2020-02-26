@@ -21,7 +21,7 @@
     "@angular/platform-browser": "~9.0.0",
     "@angular/platform-browser-dynamic": "~9.0.0",
     "@angular/router": "~9.0.0",
-    "ngx-image-overlay": "file:../ngx-gallery-overlay/dist/ngx-image-overlay/ngx-image-overlay-0.0.51.tgz",
+    "ngx-image-overlay": "file:../ngx-gallery-overlay/dist/ngx-image-overlay/ngx-image-overlay-0.0.55.tgz",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
